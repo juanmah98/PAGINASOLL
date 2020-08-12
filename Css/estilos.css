@@ -172,12 +172,14 @@ h2{
         }
     
         iframe.V{
-            width: 330px;
-            height: 130px;
+            width: 300px;
+            height: 100px;
         
         }
     
-        
+        .Fondo{
+            margin-top: 80%;
+        }
             
         .Titulo{
     
@@ -192,9 +194,7 @@ h2{
             
         }
         
-        .Fondo{
-            margin-top: 70%;
-        }
+        
 
         .Contenido{
         
