@@ -57,6 +57,7 @@ h1{
     font-family: sans-serif;
     font-size: 100px;
     margin-left: 35%;
+    color: rgb(255, 0, 140);
 }
 
 p{
@@ -170,8 +171,8 @@ h2{
         }
     
         iframe.V{
-            width: 380px;
-            height: 180px;
+            width: 350px;
+            height: 150px;
         
         }
     
@@ -191,7 +192,7 @@ h2{
         }
         
         .Fondo{
-            margin-top: 40%;
+            margin-top: 60%;
         }
 
         .Contenido{
@@ -217,7 +218,7 @@ h2{
     
         .Video{
             margin-left:1%;
-            margin-top: 15%;
+            margin-top: 30%;
             
             
         }
