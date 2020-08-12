@@ -66,7 +66,7 @@ p{
 }
 
 .Video{
-    margin-left: 28%;
+    margin-left: 34%;
     margin-top: 5%;
     
     
@@ -157,5 +157,65 @@ h2{
 
 @media screen and (max-width: 400px)
 {
-
+    img.T{
+        width: 400px;
+        }
+    
+        img.C{
+            width: 260px;
+            height: 330px;
+        }
+    
+        video.V{
+            width: 490px;
+            height: 290px;
+        
+        }
+    
+        
+            
+        .Titulo{
+    
+            margin-left: 5%;
+            
+        }
+    
+        .cuadro{
+        
+            margin-left: 10%
+            
+        }
+        .Contenido{
+        
+            color: rgb(255, 255, 255);
+            font-family: cursive;
+            width: 90%;
+            margin-top: 20%;
+            
+           
+            font-size: 20px;
+            
+            
+        }
+    
+        h1{
+            font-family: sans-serif;
+            font-size: 70px;
+            margin-left: 10%;
+            color: rgb(255, 0, 140);
+        }
+    
+        .Video{
+            margin-left:0%;
+            margin-top: 5%;
+            
+            
+        }
+    
+        .Final{
+            margin-top: 20%;
+            margin-left: 10%;
+            margin-bottom: 20%;
+            
+        }
 }
