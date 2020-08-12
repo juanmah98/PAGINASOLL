@@ -172,8 +172,8 @@ h2{
         }
     
         iframe.V{
-            width: 400px;
-            height: 2000px;
+            width: 380px;
+            height: 180px;
         
         }
     
@@ -183,7 +183,8 @@ h2{
             
         .Titulo{
     
-            margin-left: 0%;
+            
+            margin-right: 3%;
             
         }
     
