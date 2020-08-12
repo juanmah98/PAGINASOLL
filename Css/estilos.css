@@ -54,10 +54,11 @@ body{
 }
 
 h1{
+    color: rgb(255, 0, 140);
     font-family: sans-serif;
     font-size: 100px;
     margin-left: 35%;
-    color: rgb(255, 0, 140);
+    
 }
 
 p{
