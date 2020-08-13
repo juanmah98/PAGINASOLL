@@ -81,6 +81,19 @@ p{
     
 }
 
+.Musica{
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-bottom: 5%;
+    
+}
+
+h3{
+    color: rgb(153, 0, 255);
+    margin-left: 4%;
+}
+
+
 video.V{
     width:700px;
     height: 500px;
@@ -156,6 +169,18 @@ h2{
         margin-bottom: 10%;
         
     }
+
+    .Musica{
+        margin-top: 10%;
+        margin-left: 20%;
+        margin-bottom: 5%;
+        
+    }
+    
+    h3{
+        color: rgb(153, 0, 255);
+        margin-left: 10%;
+    }
     
 }
 
@@ -230,5 +255,17 @@ h2{
             margin-left: 10%;
             margin-bottom: 20%;
             
+        }
+
+        .Musica{
+            margin-top: 10%;
+            margin-left: 10%;
+            margin-bottom: 5%;
+            
+        }
+        
+        h3{
+            color: rgb(153, 0, 255);
+            margin-left: 10%;
         }
 }
