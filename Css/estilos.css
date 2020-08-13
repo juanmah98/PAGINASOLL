@@ -34,9 +34,9 @@ body{
 .Fondo
 {
     
-    margin-top: 20%;
+    margin-top: 10%;
     
-    margin-bottom: 20%;
+    margin-bottom: 10%;
     position: static;
     
 }
@@ -68,8 +68,8 @@ p{
 }
 
 .Video{
-    margin-left: 24%;
-    margin-top: 5%;
+    margin-left: 31%;
+    margin-top: 10%;
     
     
 }
@@ -171,7 +171,7 @@ h2{
     }
 
     .Musica{
-        margin-top: 10%;
+        margin-top: 20%;
         margin-left: 20%;
         margin-bottom: 5%;
         
